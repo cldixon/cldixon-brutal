@@ -1,0 +1,16 @@
+{
+  "name": "cldixon-brutal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "brutal-server setup",
+    "deploy": "brutal-server deploy",
+    "dev": "brutal-server dev",
+    "secrets": "brutal-server secrets"
+  },
+  "dependencies": {
+    "@brutal-ai/server": "^0.1.0",
+    "cf": "1.0.0-beta.28",
+    "wrangler": "^4.149.0"
+  }
+}
