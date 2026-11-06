@@ -1,4 +1,11 @@
 {
   "worker": "brutal",
-  "domain": "brutal.cldixon.dev"
+  "domain": "brutal.cldixon.dev",
+  "access": {
+    "emails": [
+      "cl_dixon@icloud.com"
+    ],
+    "team": "tempra-admin.cloudflareaccess.com",
+    "aud": "d9b6c34b232c3bb96cde51fab964d150a063bdb76577f7b3a3840e4b47434a31"
+  }
 }

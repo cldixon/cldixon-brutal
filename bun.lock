@@ -5,14 +5,14 @@
     "": {
       "name": "cb",
       "dependencies": {
-        "@brutal-ai/server": "^0.1.0",
+        "@brutal-ai/server": "^0.2.0",
         "cf": "1.0.0-beta.28",
         "wrangler": "^4.149.0",
       },
     },
   },
   "packages": {
-    "@brutal-ai/server": ["@brutal-ai/server@0.1.0", "", { "peerDependencies": { "cf": "1.0.0-beta.28", "wrangler": "^4.149.0" }, "bin": { "brutal-server": "cli.js" } }, "sha512-MCGtAwkQ+nLlczlIyFgB9pihokFGvidHxm2dnPPb0aAcoqCpIxzhER78e8M6Be9750qn14lyrqtvC36DrAVINw=="],
+    "@brutal-ai/server": ["@brutal-ai/server@0.2.0", "", { "peerDependencies": { "cf": "1.0.0-beta.28", "wrangler": "^4.149.0" }, "bin": { "brutal-server": "cli.js" } }, "sha512-VXJr4MYJrTVmoH7TIVKzv4FQtq/WbLkjQzyKWexmU7znrxfE+8WqhPM1DbjSfT7/ybe0n5bQot29Q+qD6mPIGw=="],
 
     "@cloudflare/build-output-utils": ["@cloudflare/build-output-utils@0.9.10", "", { "dependencies": { "@cloudflare/config": "0.30.2" } }, "sha512-9F6RSV0FJnF0zQLIoMVgxc0ub57FrZBGKZ8oUQHyVAbbjodlcIHk0BF5fd3B89N/Y4cE+FSqzWfpq3RzFy3tjA=="],
 
